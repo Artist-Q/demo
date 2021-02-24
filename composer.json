@@ -1,0 +1,14 @@
+{
+    "name": "wbc-shengtian/demo",
+    "description": "a text composer file",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wbc",
+            "email": "18748099007@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
